@@ -1,4 +1,4 @@
-
+create database antiguedades_campus;
 use antiguedades_campus;
 
 create table usuario(
